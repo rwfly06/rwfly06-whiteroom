@@ -13,10 +13,10 @@
 <!-- ═══════════════════════ NEOFETCH ═══════════════════════ -->
 
 ```bash
-┌─[muham@archlinux]─[~]
+┌─[rwfly06@archlinux]─[~]
 └──╼ $ neofetch
 
-                  -`                     muham@github
+                  -`                     rwfly06@github
                  .o+`                    ─────────────────────────
                 `ooo/                    OS       ⟩ Arch Linux x86_64
                `+oooo:                   Kernel   ⟩ latest, always
