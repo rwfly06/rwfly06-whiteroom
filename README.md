@@ -73,7 +73,7 @@
 
 <div align="center">
 
-### `⟩ ping -c 1 muham`
+### `⟩ ping -c 1 rwfly06`
 
 <a href="https://github.com/rwfly06"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=1793d1" /></a>
 <a href="mailto:105841120324@student.unismuh.ac.id"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=1793d1" /></a>
