@@ -30,9 +30,9 @@
   <!-- ══════════ SILHOUETTE · calm observer ══════════ -->
   <g transform="translate(1105,0)">
     <ellipse cx="115" cy="330" rx="150" ry="170" fill="#9B1D30" opacity="0.10"/>
-    <path d="M 15 500 C 20 425 60 398 88 388 C 72 372 66 348 70 326 C 75 296 92 280 115 280 C 138 280 155 296 160 326 C 164 348 158 372 142 388 C 170 398 210 425 215 500 Z"
-          fill="#101010" stroke="url(#crimsonRim)" stroke-width="1.5"/>
-    <path d="M 70 326 C 75 296 92 280 115 280 C 138 280 155 296 160 326"
+    <path d="M 15 500 C 18 432 52 402 92 390 L 96 366 C 78 352 70 336 72 316 C 74 290 90 276 115 276 C 140 276 156 290 158 316 C 160 336 152 352 134 366 L 138 390 C 178 402 212 432 215 500 Z"
+          fill="#141414" stroke="url(#crimsonRim)" stroke-width="1.5"/>
+    <path d="M 72 316 C 74 290 90 276 115 276 C 140 276 156 290 158 316"
           stroke="#C43D52" stroke-width="1" opacity="0.35" fill="none"/>
   </g>
 
