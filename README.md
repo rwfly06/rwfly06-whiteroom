@@ -58,12 +58,12 @@
 
 ### `⟩ systemctl status github`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=00f0ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1793d1&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rwfly06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=00f0ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwfly06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1793d1&text_color=c9d1d9" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1793d1&line=00f0ff&point=e5e9f0" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rwfly06&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1793d1&line=00f0ff&point=e5e9f0" width="95%" />
 
 </div>
 
@@ -75,13 +75,13 @@
 
 ### `⟩ ping -c 1 muham`
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=1793d1" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=1793d1" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1793d1" /></a>
+<a href="https://github.com/rwfly06"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=1793d1" /></a>
+<a href="mailto:105841120324@student.unismuh.ac.id"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=1793d1" /></a>
+<a href="https://www.instagram.com/rafly_rdh"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=1793d1" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1793d1&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=rwfly06&style=flat-square&color=1793d1&label=visitors" />
 
 <br><br>
 
