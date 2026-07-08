@@ -1,0 +1,127 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crimsonRim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C43D52" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#9B1D30" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="roomGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#9B1D30" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#9B1D30" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0B0B0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9B1D30" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9B1D30" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#9B1D30" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#E8E8E8" opacity="0.022"/>
+    </pattern>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" stroke="#151515" stroke-width="1" fill="none"/>
+    </pattern>
+  </defs>
+
+  <!-- ══════════ BASE ══════════ -->
+  <rect width="1500" height="500" fill="#0B0B0B"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  <rect width="1500" height="500" fill="url(#roomGlow)"/>
+
+  <!-- ══════════ SILHOUETTE · calm observer ══════════ -->
+  <g transform="translate(1105,0)">
+    <ellipse cx="115" cy="330" rx="150" ry="170" fill="#9B1D30" opacity="0.10"/>
+    <path d="M 15 500 C 20 425 60 398 88 388 C 72 372 66 348 70 326 C 75 296 92 280 115 280 C 138 280 155 296 160 326 C 164 348 158 372 142 388 C 170 398 210 425 215 500 Z"
+          fill="#101010" stroke="url(#crimsonRim)" stroke-width="1.5"/>
+    <path d="M 70 326 C 75 296 92 280 115 280 C 138 280 155 296 160 326"
+          stroke="#C43D52" stroke-width="1" opacity="0.35" fill="none"/>
+  </g>
+
+  <!-- ══════════ TERMINAL · fastfetch ══════════ -->
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace">
+    <rect x="60" y="92" width="440" height="316" rx="6" fill="#151515" opacity="0.55"/>
+    <rect x="60" y="92" width="440" height="316" rx="6" stroke="#262626" stroke-width="1"/>
+    <rect x="60" y="92" width="440" height="34" rx="6" fill="#101010"/>
+    <circle cx="84" cy="109" r="5" fill="#9B1D30"/>
+    <circle cx="102" cy="109" r="5" fill="#3a3a3a"/>
+    <circle cx="120" cy="109" r="5" fill="#3a3a3a"/>
+    <text x="145" y="114" font-size="13" fill="#6a6a6a">~/white-room — fastfetch</text>
+
+    <text x="86" y="156" font-size="15" fill="#C43D52">rwfly06@whiteroom</text>
+    <text x="86" y="176" font-size="13" fill="#3a3a3a">──────────────────────────</text>
+
+    <text x="86"  y="202" font-size="14" fill="#9B1D30">os</text>
+    <text x="190" y="202" font-size="14" fill="#E8E8E8">Arch Linux x86_64</text>
+    <text x="86"  y="228" font-size="14" fill="#9B1D30">wm</text>
+    <text x="190" y="228" font-size="14" fill="#E8E8E8">Hyprland</text>
+    <text x="86"  y="254" font-size="14" fill="#9B1D30">editor</text>
+    <text x="190" y="254" font-size="14" fill="#E8E8E8">Neovim</text>
+    <text x="86"  y="280" font-size="14" fill="#9B1D30">uptime</text>
+    <text x="190" y="280" font-size="14" fill="#E8E8E8">since the white room</text>
+    <text x="86"  y="306" font-size="14" fill="#9B1D30">status</text>
+    <text x="190" y="306" font-size="14" fill="#E8E8E8">observing…</text>
+
+    <text x="86" y="348" font-size="14" fill="#6a6a6a">$ whoami</text>
+    <text x="86" y="372" font-size="14" fill="#E8E8E8">just a pawn who thinks ahead</text>
+    <text x="86" y="394" font-size="14" fill="#C43D52">$ <tspan fill="#E8E8E8">█<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+  </g>
+
+  <!-- ══════════ TITLE + glitch ══════════ -->
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-weight="700">
+    <text x="592" y="252" font-size="64" fill="#9B1D30" opacity="0.55" letter-spacing="6">RWFLY06<animate attributeName="x" values="592;590;593;592" dur="4s" repeatCount="indefinite"/></text>
+    <text x="588" y="248" font-size="64" fill="#E8E8E8" letter-spacing="6">RWFLY06</text>
+  </g>
+  <rect x="588" y="270" width="330" height="1" fill="url(#fadeLine)"/>
+  <text x="590" y="300" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#6a6a6a" letter-spacing="4">SILENCE · PRECISION · CONTROL</text>
+
+  <!-- log lines -->
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="12">
+    <text x="590" y="346" fill="#3a3a3a">[  0.000042] whiteroom: environment initialized</text>
+    <text x="590" y="366" fill="#3a3a3a">[  0.000108] emotion.service: <tspan fill="#9B1D30">masked</tspan> — running silently</text>
+    <text x="590" y="386" fill="#3a3a3a">[  0.000230] observer: watching every variable</text>
+    <text x="590" y="406" fill="#3a3a3a">[ <tspan fill="#C43D52">OK</tspan> ] reached target: <tspan fill="#E8E8E8">victory by calculation</tspan></text>
+  </g>
+
+  <!-- ══════════ JAPANESE · vertical ══════════ -->
+  <g font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans',sans-serif">
+    <text x="1042" y="150" font-size="30" fill="#C43D52" opacity="0.85" writing-mode="tb" letter-spacing="10">白い部屋</text>
+    <text x="1000" y="150" font-size="13" fill="#4a4a4a" writing-mode="tb" letter-spacing="8">静寂と知性</text>
+  </g>
+
+  <!-- ══════════ HEX COLUMN ══════════ -->
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#2e2e2e">
+    <text x="1345" y="120">0x00 4b 49 59 4f</text>
+    <text x="1345" y="140">0x04 54 41 4b 41</text>
+    <text x="1345" y="160">0x08 <tspan fill="#9B1D30">9b 1d 30</tspan> ff</text>
+    <text x="1345" y="180">0x0c 00 00 00 01</text>
+    <text x="1345" y="200">0x10 c4 3d 52 0a</text>
+    <text x="1345" y="220">0x14 0b 0b 0b <tspan fill="#C43D52">…</tspan></text>
+  </g>
+
+  <!-- ══════════ HUD LINES ══════════ -->
+  <g stroke="#9B1D30" stroke-width="1.5" opacity="0.8">
+    <path d="M 30 30 h 34 M 30 30 v 34"/>
+    <path d="M 1470 30 h -34 M 1470 30 v 34"/>
+    <path d="M 30 470 h 34 M 30 470 v -34"/>
+    <path d="M 1470 470 h -34 M 1470 470 v -34"/>
+  </g>
+  <line x1="60" y1="60" x2="520" y2="60" stroke="#262626" stroke-width="1"/>
+  <line x1="980" y1="60" x2="1440" y2="60" stroke="#262626" stroke-width="1"/>
+  <text x="60" y="52" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#4a4a4a" letter-spacing="3">SYS.MONITOR // v4.0</text>
+  <text x="1440" y="52" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#4a4a4a" letter-spacing="3" text-anchor="end">CLASSROOM OF THE QUIET</text>
+  <line x1="60" y1="444" x2="1440" y2="444" stroke="#262626" stroke-width="1"/>
+  <text x="60" y="466" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#4a4a4a" letter-spacing="2">/dev/mind: no emotion detected</text>
+  <text x="1440" y="466" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#4a4a4a" letter-spacing="2" text-anchor="end">exit code 0 — always</text>
+
+  <!-- glitch slivers -->
+  <g fill="#C43D52">
+    <rect x="588" y="212" width="120" height="2" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.7;0;0" keyTimes="0;0.46;0.5;0.54;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="760" y="238" width="90" height="2" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.6;0;0" keyTimes="0;0.7;0.74;0.78;1" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- scanlines on top -->
+  <rect width="1500" height="500" fill="url(#scanlines)"/>
+</svg>

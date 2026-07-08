@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:00c896,100:00ffcc&text=rwfly06&fontColor=e5e9f0&fontSize=60&fontAlignY=35&desc=%E2%9F%A9%20I%20use%20CachyOS,%20btw&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" alt="rwfly06 — white room banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=600&lines=Developer+%7C+Linux+Enthusiast;sudo+pacman+-Syu+creativity;Optimized.+Fast.+CachyOS." alt="typing" />
 
