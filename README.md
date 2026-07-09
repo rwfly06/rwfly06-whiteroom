@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-<img src="assets/banner.svg" alt="rwfly06 — white room banner" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/rwfly06/rwfly06@main/assets/banner.svg" alt="rwfly06 — white room banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C43D52&center=true&vCenter=true&width=600&lines=Developer+%7C+Linux+Enthusiast;sudo+pacman+-Syu+creativity;Optimized.+Fast.+CachyOS." alt="typing" />
 
